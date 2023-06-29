@@ -8,5 +8,5 @@
 >- [Metaprogramming](https://intranet.alxswe.com/rltoken/6OgF5QGbYclp_cwATfq-0g)
 ---
 ## Tasks
-*- 0-classroom.js
+* 0-classroom.js
 
