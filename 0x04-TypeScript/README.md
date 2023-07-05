@@ -1,10 +1,11 @@
-# Typescript
+# Typescript 📖
 ---
-## Resources
+![transcript](typescript.png)
+## Resources 📘
 * [TypeScript in % minutes](https://intranet.alxswe.com/rltoken/waTSa9Mguj912pel9On57w)
 * [TypeScript documatation](https://intranet.alxswe.com/rltoken/iPO8DlHCGzc1jnojLoP9HA)
 ---
-## Learning Objectives
+## Learning Objectives ✈️
 * Basic types in Typescript
 * Interfaces, Classes, and functions
 * How to work with the DOM and Typescript
