@@ -2,7 +2,7 @@
 ---
 ![transcript](typescript.png)
 ## Resources 📘
-* [TypeScript in % minutes](https://intranet.alxswe.com/rltoken/waTSa9Mguj912pel9On57w)
+* [TypeScript in 3 minutes](https://intranet.alxswe.com/rltoken/waTSa9Mguj912pel9On57w)
 * [TypeScript documatation](https://intranet.alxswe.com/rltoken/iPO8DlHCGzc1jnojLoP9HA)
 ---
 ## Learning Objectives ✈️
